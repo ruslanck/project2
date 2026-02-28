@@ -4,6 +4,6 @@ git remote add origin https://github.com/<профиль>/<имя реп> git re
 
 на сайте создать репозиторий
 
-создать хотя бы 1 коммит
+создать хотя бы 1 комит
 
 git push -u origin
